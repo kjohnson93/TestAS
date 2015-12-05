@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bicinv1</string>
+    <string name="title_activity_main">BicinTimev1</string>
+    <string name="drawer_open">Opem</string>
+    <string name="drawer_close">Close</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
