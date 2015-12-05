@@ -13,10 +13,11 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 /**
- * Created by wolf on 10/26/2015.
+ * Created by wolf on 10/26/2015.  **Este codigo no hace falta comentarlo. Solo está de prueba.
  */
 public class MyMapFragment extends SupportMapFragment
 {
+
     private LatLng latLon;
     private LatLng latprueba; //test to git
 
