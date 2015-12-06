@@ -111,6 +111,7 @@ public class MainActivity extends AppCompatActivity {
             return myFragment;*/
 
             MyFragment myFragment = new MyFragment();
+
             Bundle arguments = new Bundle();
             arguments.putInt(ARG_PAGE, pageNumber);
             myFragment.setArguments(arguments);
@@ -129,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
             myText.setText("Hello im text inside this fragment " + pageNumber);
             myText.setGravity(Gravity.CENTER);
             return myText;
-
+//GITHUB TEST
         }
     }
 
