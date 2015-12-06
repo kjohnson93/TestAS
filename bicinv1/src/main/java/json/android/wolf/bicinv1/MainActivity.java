@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
             myText.setText("Hello im text inside this fragment " + pageNumber);
             myText.setGravity(Gravity.CENTER);
             return myText;
-//GITHUB TEST
+//GITHUB TEST as
         }
     }
 
